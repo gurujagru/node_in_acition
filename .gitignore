@@ -1,2 +1,5 @@
 .idea
-.node_modules
+node_modules
+key.pem
+key-cert.pem
+tasks
