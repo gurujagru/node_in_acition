@@ -1,0 +1,7 @@
+{
+  "name": "node_in_action",
+  "version": "1.0.0",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
